@@ -100,9 +100,9 @@ const COPY = {
   "social-proof_063": `24 profesionales · 2 equipos · 1 mes de Tiimi LAB`,
   "social-proof_064": `Conoce a los primeros profesionales que se animaron a vivir una nueva forma de aprender en equipo y a ser parte del movimiento que está transformando la educación y el trabajo colaborativo en Latinoamérica.`,
   "social-proof_065": `▶`,
-  "social-proof_066": `<b>Luis Toshio</b><br/><em>“Para mi se ha sentido no como una clase, sino como una experiencia”.</em>`,
+  "social-proof_066": `<b>Luis Toshio</b><br/><em>“Para mi se ha sentido no solo como una clase, sino como una experiencia”.</em>`,
   "social-proof_067": `<b>Lucrecia Sosa</b><br/><em>"Gracias por tanta generosidad cada encuentro germina en nosotros y unos con otros vamos descubriendo como llevar tan lindas herramientas a la practica.”.</em>`,
-  "social-proof_068": `<b>TIlse Gómez</b><br/><em>"Fue una práctica bien potente en lo personal y para mi microcomunidad, me encantó cómo la vivimos.".</em>`,
+  "social-proof_068": `<b>Ilse Gómez</b><br/><em>"Fue una práctica bien potente en lo personal y para mi microcomunidad, me encantó cómo la vivimos.".</em>`,
 
   // ===== ALT =====
   "alt_069": `El problema`,
