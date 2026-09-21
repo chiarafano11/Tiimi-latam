@@ -119,6 +119,21 @@ footer{background:var(--tiimi-ink)!important;color:#fff!important;border:0!impor
 @media (prefers-reduced-motion:no-preference){.team-illo{animation:tiimiFloat 6s ease-in-out infinite}.paper-note{animation:noteFloat 5s ease-in-out infinite}@keyframes tiimiFloat{50%{transform:translateY(-8px)}}@keyframes noteFloat{50%{transform:rotate(2deg) translateY(-5px)}}}
 @media(max-width:900px){section{padding:78px 0!important}.hero-in{grid-template-columns:1fr!important;gap:28px!important}.hero-identity-art,.authority-card{grid-column:1!important;grid-row:auto!important}.hero-identity-art{min-height:320px}.hero::before{width:280px!important;height:280px!important;right:-130px!important;top:120px!important}.method-flow{grid-template-columns:1fr!important}.flow-arrow{transform:rotate(90deg);justify-self:center}.trust-in{display:grid!important;grid-template-columns:1fr 1fr!important}.trust-in span:not(:last-child)::after{display:none}}
 @media(max-width:620px){.wrap{width:min(100% - 28px,1180px)!important}h1{font-size:clamp(3rem,15vw,4.8rem)!important}h2{font-size:clamp(2.3rem,11vw,3.7rem)!important}.hero{padding-top:68px!important}.hero-identity-art{min-height:265px}.paper-note{font-size:.9rem;padding:11px 13px}.trust-in{grid-template-columns:1fr!important}.actions{display:grid!important;gap:10px!important}.btn{width:100%!important}}
+/* Círculo azul siempre detrás del contenido */
+.lab-next{
+  position:relative;
+  overflow:hidden;
+}
+
+.lab-next::before{
+  z-index:0;
+  pointer-events:none;
+}
+
+.lab-next > .wrap{
+  position:relative;
+  z-index:2;
+}
 </style>
 <style id="mockup-hero-header-update">
 :root{
