@@ -788,6 +788,48 @@ border-top:1px solid rgba(255,255,255,.18);
 .benefits-transform .benefits-header .lead{
   opacity:.78;
 }
+  /* Círculo azul siempre detrás del contenido */
+.lab-next{
+  position:relative;
+  overflow:hidden;
+}
+
+.lab-next::before{
+  z-index:0;
+  pointer-events:none;
+}
+
+.lab-next > .wrap{
+  position:relative;
+  z-index:2;
+}
+
+
+/* ===== METODOLOGÍA CENTRADA EN MOBILE ===== */
+@media(max-width:768px){
+
+  .method-flow{
+    text-align:center !important;
+  }
+
+  .method-flow > div{
+    text-align:center !important;
+  }
+
+  .method-flow b,
+  .method-flow small,
+  .method-flow .flow-num{
+    text-align:center !important;
+  }
+
+  .flow-arrow{
+    text-align:center !important;
+    width:100%;
+  }
+}
+
+</style>
+</head>
 </style>
 </head>
 <body>
