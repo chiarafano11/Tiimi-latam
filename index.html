@@ -134,6 +134,21 @@ footer{background:var(--tiimi-ink)!important;color:#fff!important;border:0!impor
   position:relative;
   z-index:2;
 }
+  /* Figura coral del programa detrás del contenido */
+.program{
+  position:relative;
+  overflow:hidden;
+}
+
+.program::after{
+  z-index:0 !important;
+  pointer-events:none;
+}
+
+.program > *{
+  position:relative;
+  z-index:2;
+}
 </style>
 <style id="mockup-hero-header-update">
 :root{
@@ -964,7 +979,7 @@ border-top:1px solid rgba(255,255,255,.18);
 <span class="flow-arrow">→</span>
 <div><span class="flow-num" data-copy="method_095">04</span><b>Volver a hacer</b><small>Aprender mientras el equipo evoluciona.</small></div>
 </div></div></section>
-<section class="alt program" id="programa"><div class="wrap center"><div class="hand-cue" data-copy="programa_096">aprender → aplicar → repetir</div><span class="kicker" data-copy="programa_097">El programa</span><h2 data-copy="programa_098">8 sesiones para pasar de comprender el método a poder aplicarlo</h2><p class="lead" data-copy="programa_099">24 horas de formación práctica, acompañamiento y aplicación sobre retos reales.</p><div class="program">
+<section class="alt program" id="programa"><div class="wrap center"><span class="kicker" data-copy="programa_097">El programa</span><h2 data-copy="programa_098">8 sesiones para pasar de comprender el método a poder aplicarlo</h2><p class="lead" data-copy="programa_099">24 horas de formación práctica, acompañamiento y aplicación sobre retos reales.</p><div class="program">
 <details open=""><summary><span class="num" data-copy="programa_100">01</span>Bienvenida a Tiimiakatemia y al rol del Team Coach</summary><p data-copy="programa_101">Historia, fundamentos, pilares del modelo y orientación del programa. Construcción del contexto compartido para iniciar el proceso.</p></details>
 <details><summary><span class="num" data-copy="programa_102">02</span>Cómo aprenden realmente los equipos</summary><p data-copy="programa_103">Team Learning, equipos de aprendizaje y diferencias frente al trabajo grupal tradicional.</p></details>
 <details><summary><span class="num" data-copy="programa_104">03</span>El rol del Team Coach</summary><p data-copy="programa_105">Cómo facilitar sin controlar: cuándo preguntar, intervenir, observar o dejar actuar al equipo.</p></details>
