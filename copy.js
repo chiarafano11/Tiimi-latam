@@ -78,21 +78,35 @@ const COPY = {
   "resultados_045": `No se trata solamente de conocer Team Learning. Se trata de aprender a facilitarlo.`,
 
   // ===== LAB-NEXT =====
-  "lab-next_046": `Del LAB al siguiente nivel`,
-  "lab-next_047": `Vivir Team Learning no es lo mismo que aprender a facilitarlo`,
-  "lab-next_048": `El Tiimi LAB permitió experimentar la metodología como participante. La certificación desarrolla las capacidades necesarias para aplicarla con otros equipos.`,
-  "lab-next_049": `Tiimi LAB`,
-  "lab-next_050": `Viviste el método`,
-  "lab-next_051": `Participar`,
-  "lab-next_052": `Experimentar`,
-  "lab-next_053": `Dialogar`,
-  "lab-next_054": `Aprender junto al equipo`,
-  "lab-next_055": `Certificación`,
-  "lab-next_056": `Aprendes a facilitarlo`,
-  "lab-next_057": `Observar`,
-  "lab-next_058": `Diagnosticar`,
-  "lab-next_059": `Diseñar`,
-  "lab-next_060": `Facilitar e intervenir`,
+"lab-next_046": `Qué ganas con esta certificación`,
+
+"lab-next_047": `No se trata de sumar herramientas. Se trata de transformar cómo trabajas con equipos.`,
+
+"lab-next_048": `La certificación te lleva de conocer nuevas formas de trabajar a desarrollar la capacidad de aplicarlas, facilitarlas y llevarlas a otros equipos.`,
+
+"lab-next_049": `Enseñar desde modelos tradicionales`,
+
+"lab-next_050": `<strong>Facilitar experiencias de aprendizaje</strong>, donde se aprende haciendo sobre desafíos reales.`,
+
+"lab-next_051": `Conocer herramientas en teoría`,
+
+"lab-next_052": `<strong>Aprender haciendo</strong>, experimentando la metodología antes de llevarla a tus propios equipos.`,
+
+"lab-next_053": `Ofrecer las mismas herramientas que otros profesionales`,
+
+"lab-next_054": `<strong>Diferenciar tu propuesta de valor</strong> incorporando una metodología internacional de Team Learning.`,
+
+"lab-next_055": `Dirigir o acompañar equipos`,
+
+"lab-next_056": `<strong>Desarrollar equipos capaces de aprender, decidir y actuar juntos.</strong>`,
+
+"lab-next_057": `Trabajar desde tu experiencia individual`,
+
+"lab-next_058": `<strong>Ser parte de una comunidad LATAM</strong> con la que pueden surgir nuevas colaboraciones, aprendizajes y proyectos.`,
+
+"lab-next_059": ``,
+
+"lab-next_060": ``,
 
   // ===== SOCIAL-PROOF =====
   "social-proof_061": `La comunidad ya lo vivió`,
